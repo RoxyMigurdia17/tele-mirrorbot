@@ -1,6 +1,0 @@
-Rom 1orDhFcJ8RWgE0Vy1aOkfU0JrAJ3CjWy0 https://mirrorhost.roxymigurdia17.me/0:/Rom
-Kernel 1Oy7SCO8nPghYOQSZ6-A6snubhMVzYYff https://mirrorhost.roxymigurdia17.me/0:/Kernel
-Movies 13foXQ8z--OTfDwpH9jztuP2a3576PkPc https://mirrorhost.roxymigurdia17.me/0:/Movies
-Others 1nJB7pHj3lC-JEatCyLs6J3tdZaldef5i https://mirrorhost.roxymigurdia17.me/0:/Others
-Music 13_kqTPGixO_N_BaB1WlJxjtzfdIdURoy https://mirrorhost.roxymigurdia17.me/1:/Music
-Movies1 1bK7z5GHfiJuCml5XH9-P_uxd8paq0NpL https://mirrorhost.roxymigurdia17.me/1:/Movies1
